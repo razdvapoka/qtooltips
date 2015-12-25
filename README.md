@@ -1,2 +1,2 @@
 # qtooltips
-Qt tooltip manger
+Vimium f-button for Qt applications
